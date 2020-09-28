@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(133, 102, 102);
+    padding: 0px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-top: 80px;
+}
+.john{
+    font-weight: bold; 
+    text-decoration: underline; 
+}
+#john{font-weight: bold;
+    text-decoration: underline;
+    color: blue;
+}
+.bg{
+    background-image: url(../IMAGES/completed.jpg);
+    padding: 20px 20px 30px 20px;
+    margin: 0 auto;
+    width: 500px;
+    height: 200px;
+    background-repeat: no-repeat;
+    border: 3px #000 solid;
+background-position: center;
+    background-attachment: scroll;
+    text-indent: 5px;  
+    text-decoration: dashed;  
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-family: Verdana;
+    font-style: italic; 
+    
+}
+.header{
+    width: 100%;
+    background-color: rgb(139, 73, 25);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+.logo{
+    font-size: 20px;
+    float: left;
+    top: 0px;
+}
+.menu{
+    width: 800px;
+    float: right;
+    padding: 0;
+    margin-top: 5px;
+
+}
+.menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+}
+.menu ul li{
+    float: right;
+    margin-right: 10px;
+}
+.menu ul li a{
+    padding: 10px;
+    background-color: blue;
+    margin-right: 0;
+    color: white;
+    text-decoration: none;
+    display: block;
+    text-align: justify;
+    border-radius: 20px;
+}
+.menu ul li a:hover{
+    background-color: black;
+}
+.para{
+font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    color: black;
+    line-height: 1.6em;
+    margin-left: 20px;
+}
+.para1 {
+    color: rgb(40, 182, 21);
+}
+.para ol :hover{
+    background-color: brown;
+    color: darkgreen;
+}

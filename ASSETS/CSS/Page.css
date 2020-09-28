@@ -1,0 +1,254 @@
+*{
+    margin: 0;
+}
+
+.header{
+    width: 100%;
+    background-color: yellow;
+    padding: 20px; 
+    min-height: 50px;
+}
+.logo{
+    float: left;
+}
+.menu{
+    min-width: 50px;
+}
+.menu ul li{
+    float: right;
+    list-style: none;
+    min-width: 150px;
+    padding-top: 10px;
+}
+.Bigbox{
+    padding-top: 100px;
+    width: 100%;
+    margin: auto;
+    background-color: whitesmoke;
+    height: 270px;
+}
+.greetings{
+    float: left;
+    margin-left: 180px;
+}
+.year{
+    float: right;
+    margin-right: 150px;
+}
+input{
+    float: left;
+    margin-left: 40px; 
+    margin-top: 10px;  
+    width: 150px;
+    border-radius: 10px;
+    height: 30px;
+    background-color: green
+}
+.box{
+    width: 1200px;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    min-width: 30px;
+    padding-top: 80px;
+}
+.box1{
+    width: 200px;
+    height: 150px;
+    background-color: purple;
+    float: right;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.box2{
+    width: 200px;
+    height: 150px;
+    background-color: blue;
+    float: right;
+    border-radius: 10px;
+    margin-right: 20px;
+
+
+}
+.box3{
+    width: 200px;
+    height: 150px;
+    background-color: saddlebrown;
+    float: right;
+    border-radius: 10px;
+    margin-right: 20px;
+
+
+}
+.box4{
+    width: 200px;
+    height: 150px;
+    background-color: magenta;
+    float: right;
+    border-radius: 10px;
+    margin-right: 20px;
+
+}
+.box5{
+    width: 200px;
+    height: 150px;
+    background-color: green;
+    float: right;
+    border-radius: 10px;
+    margin-right: 20px;
+
+}
+.box1 h3{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 30px;
+}
+.box p{
+    font-size: 15px;
+    padding-top: 5px;
+}
+.form input{
+    float: left;
+}
+.box2 h3{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 30px;
+}
+.box3 h3{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 30px;
+}
+.box4 h3{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 30px;
+}
+.box5 h3{
+    text-align: center;
+    font-size: 45px;
+    margin-top: 30px;
+}
+.R{
+    text-align: center;
+    padding-top: 20px;
+    font-style: italic;
+}
+.sent{
+text-align: center;
+padding-top: 30px;
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 10px;
+    width: auto;
+    height: 500px;
+    margin-left: 30px;
+    background-color: white;
+    text-align: center;
+    margin-left: 80px;
+}
+.icon1{
+    width: 180px;
+    height: 150px;
+    float: right;
+    margin-right: 20px;
+    padding-right: 5px;
+    background-color: whitesmoke;
+    text-align: center;
+}
+.icon2{
+    width: 180px;
+    height: 150px;
+    float: right;
+    margin-right: 20px;
+    background-color: whitesmoke;
+}
+.icon3{
+    width: 180px;
+    height: 150px;
+    float: right;
+    margin-right: 20px;
+    background-color: whitesmoke;
+}
+.icon4{
+    width: 180px;
+    height: 150px;
+    float: right;
+    margin-right: 20px;
+    background-color: whitesmoke;
+}
+.icon5{
+    width: 180px;
+    height: 150px;
+    float: right;
+    margin-right: 20px;
+    background-color: whitesmoke;
+}
+.icon6{
+    width: 180px;
+    height: 150px;
+    float: right;
+    margin-right: 20px;
+    background-color: whitesmoke;
+}
+.icon7{
+    width: 180px;
+    height: 150px;
+    float: right;
+    margin-right: 20px;
+    background-color: whitesmoke;
+}
+.icon8{
+    width: 180px;
+    height: 150px;
+    float: right;
+    margin-right: 20px;
+    background-color: whitesmoke;
+}
+.icon1 img{
+    padding: 5px 5px;
+    padding-bottom: 2px;
+}
+.icon2 img{
+    padding: 5px 5px;
+    padding-bottom: 2px;
+}
+.icon3 img{
+    padding: 5px 5px;
+    padding-bottom: 2px;
+}
+.icon4 img{
+    padding: 5px 5px;
+    margin-bottom: 2px;
+    padding-bottom: 2px;
+}
+.icon5 img{
+    padding: 5px 5px;
+    padding-bottom: 2px;
+}
+.icon6 img{
+    padding: 5px 5px;
+    padding-bottom: 2px;
+}
+.icon7 img{
+    padding: 5px 5px;
+    padding-bottom: 2px;
+}
+.icon8 img{
+    padding: 5px 5px;
+    padding-bottom: 2px;
+}
+.icon1 p{
+    text-align: center;
+    padding-top: 5px;
+}
+.bar{
+    width: 100%;
+    background-color: teal;
+    padding: 20px;
+    min-height: 70px;
+}
